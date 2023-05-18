@@ -2,7 +2,7 @@
 1 minute setup to start practicing a kata 
 ## TL;DR
 
-    git clone https://github.com/santo76/bootstrap-php.git
+    git clone https://github.com/santo76/bootstrap-typescript.git
     cd php-kata-bootstrap
 First option: I already have installed PHP 7.4 and composer
 
